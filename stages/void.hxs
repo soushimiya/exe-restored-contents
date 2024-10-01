@@ -1,0 +1,15 @@
+function onCreate() {
+    whiteFuck = new FlxSprite().makeGraphic(FlxG.width * 3, FlxG.height * 3, FlxColor.WHITE);
+    add(whiteFuck);
+}
+
+function onStartCountdown() {
+    camGame.alpha = 0;
+}
+
+function onStepHit() {
+    switch(curStep) {
+        case 31:
+            camGame.alpha = 1;
+    }
+}

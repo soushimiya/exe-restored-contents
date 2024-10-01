@@ -1,0 +1,73 @@
+function onCreate() {
+    var sky:FlxSprite = new FlxSprite(-631.8, -493.15).loadGraphic(Paths.image('fakerBG/sky'));
+    sky.antialiasing = true;
+    sky.scrollFactor.set(1, 1);
+    sky.active = false;
+    sky.scale.x = .9;
+    sky.scale.y = .9;
+    add(sky);
+
+    var mountains:FlxSprite = new FlxSprite(-631.8, -475.5).loadGraphic(Paths.image('fakerBG/mountains'));
+    mountains.antialiasing = true;
+    mountains.scrollFactor.set(1.1, 1);
+    mountains.active = false;
+    mountains.scale.x = .9;
+    mountains.scale.y = .9;
+    add(mountains);
+
+    var grass:FlxSprite = new FlxSprite(-631.8, -475.5).loadGraphic(Paths.image('fakerBG/grass'));
+    grass.antialiasing = true;
+    grass.active = false;
+    grass.scale.x = .9;
+    grass.scale.y = .9;
+    add(grass);
+
+    var tree2:FlxSprite = new FlxSprite(-631.8, -475.5).loadGraphic(Paths.image('fakerBG/tree2'));
+    tree2.antialiasing = true;
+    tree2.active = false;
+    tree2.scale.x = .9;
+    tree2.scale.y = .9;
+    add(tree2);
+
+    var pillar2:FlxSprite = new FlxSprite(-631.8, -459.55).loadGraphic(Paths.image('fakerBG/pillar2'));
+    pillar2.antialiasing = true;
+    pillar2.active = false;
+    pillar2.scale.x = .9;
+    pillar2.scale.y = .9;
+    add(pillar2);
+
+    var plant:FlxSprite = new FlxSprite(-631.8, -493.15).loadGraphic(Paths.image('fakerBG/plant'));
+    plant.antialiasing = true;
+    plant.active = false;
+    plant.scale.x = .9;
+    plant.scale.y = .9;
+    add(plant);
+
+    var tree1:FlxSprite = new FlxSprite(-631.8, -493.15).loadGraphic(Paths.image('fakerBG/tree1'));
+    tree1.antialiasing = true;
+    tree1.active = false;
+    tree1.scale.x = .9;
+    tree1.scale.y = .9;
+    add(tree1);
+
+    var pillar1:FlxSprite = new FlxSprite(-631.8, -493.15).loadGraphic(Paths.image('fakerBG/pillar1'));
+    pillar1.antialiasing = true;
+    pillar1.active = false;
+    pillar1.scale.x = .9;
+    pillar1.scale.y = .9;
+    add(pillar1);
+
+    var flower1:FlxSprite = new FlxSprite(-631.8, -493.15).loadGraphic(Paths.image('fakerBG/flower1'));
+    flower1.antialiasing = true;
+    flower1.active = false;
+    flower1.scale.x = .9;
+    flower1.scale.y = .9;
+    add(flower1);
+
+    var flower2:FlxSprite = new FlxSprite(-631.8, -493.15).loadGraphic(Paths.image('fakerBG/flower2'));
+    flower2.antialiasing = true;
+    flower2.active = false;
+    flower2.scale.x = .9;
+    flower2.scale.y = .9;
+    add(flower2);
+}

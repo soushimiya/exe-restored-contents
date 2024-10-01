@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="Faker.png" width="8111" height="2800">
+	<SubTexture name="FAKER DOWN instance 10000" x="4841" y="2" width="475" height="629" frameX="-7" frameY="-0" frameWidth="488" frameHeight="630"/>
+	<SubTexture name="FAKER DOWN instance 10001" x="491" y="2" width="488" height="613" frameX="-0" frameY="-14" frameWidth="488" frameHeight="630"/>
+	<SubTexture name="FAKER DOWN instance 10002" x="2" y="2" width="487" height="611" frameX="-0" frameY="-16" frameWidth="488" frameHeight="630"/>
+	<SubTexture name="FAKER DOWN instance 10003" x="981" y="2" width="483" height="615" frameX="-1" frameY="-12" frameWidth="488" frameHeight="630"/>
+	<SubTexture name="FAKER DOWN instance 10004" x="3879" y="2" width="479" height="617" frameX="-3" frameY="-10" frameWidth="488" frameHeight="630"/>
+	<SubTexture name="FAKER DOWN instance 10005" x="4360" y="2" width="479" height="617" frameX="-3" frameY="-10" frameWidth="488" frameHeight="630"/>
+	<SubTexture name="FAKER DOWN instance 10006" x="1466" y="2" width="479" height="616" frameX="-3" frameY="-11" frameWidth="488" frameHeight="630"/>
+	<SubTexture name="FAKER DOWN instance 10007" x="1947" y="2" width="479" height="616" frameX="-3" frameY="-11" frameWidth="488" frameHeight="630"/>
+	<SubTexture name="FAKER DOWN instance 10008" x="2428" y="2" width="480" height="616" frameX="-3" frameY="-11" frameWidth="488" frameHeight="630"/>
+	<SubTexture name="FAKER DOWN instance 10009" x="2910" y="2" width="480" height="616" frameX="-2" frameY="-11" frameWidth="488" frameHeight="630"/>
+	<SubTexture name="FAKER DOWN instance 10010" x="3392" y="2" width="485" height="616" frameX="-3" frameY="-11" frameWidth="488" frameHeight="630"/>
+	<SubTexture name="FAKER IDLE instance 10000" x="1824" y="620" width="453" height="673" frameX="-0" frameY="-0" frameWidth="455" frameHeight="673"/>
+	<SubTexture name="FAKER IDLE instance 10001" x="2" y="615" width="454" height="672" frameX="-0" frameY="-0" frameWidth="455" frameHeight="673"/>
+	<SubTexture name="FAKER IDLE instance 10002" x="458" y="617" width="453" height="672" frameX="-1" frameY="-0" frameWidth="455" frameHeight="673"/>
+	<SubTexture name="FAKER IDLE instance 10003" x="5760" y="2" width="443" height="669" frameX="-8" frameY="-3" frameWidth="455" frameHeight="673"/>
+	<SubTexture name="FAKER IDLE instance 10004" x="6205" y="2" width="440" height="669" frameX="-10" frameY="-3" frameWidth="455" frameHeight="673"/>
+	<SubTexture name="FAKER IDLE instance 10005" x="5318" y="2" width="440" height="668" frameX="-10" frameY="-4" frameWidth="455" frameHeight="673"/>
+	<SubTexture name="FAKER IDLE instance 10006" x="6647" y="2" width="439" height="670" frameX="-11" frameY="-2" frameWidth="455" frameHeight="673"/>
+	<SubTexture name="FAKER IDLE instance 10007" x="7088" y="2" width="441" height="671" frameX="-10" frameY="-1" frameWidth="455" frameHeight="673"/>
+	<SubTexture name="FAKER IDLE instance 10008" x="7531" y="2" width="444" height="671" frameX="-9" frameY="-1" frameWidth="455" frameHeight="673"/>
+	<SubTexture name="FAKER IDLE instance 10009" x="913" y="619" width="454" height="672" frameX="-1" frameY="-0" frameWidth="455" frameHeight="673"/>
+	<SubTexture name="FAKER IDLE instance 10010" x="1369" y="620" width="453" height="672" frameX="-0" frameY="-0" frameWidth="455" frameHeight="673"/>
+	<SubTexture name="FAKER LEFT instance 10000" x="2279" y="620" width="710" height="687" frameX="-18" frameY="-3" frameWidth="729" frameHeight="691"/>
+	<SubTexture name="FAKER LEFT instance 10001" x="733" y="1294" width="727" height="690" frameX="-2" frameY="-0" frameWidth="729" frameHeight="691"/>
+	<SubTexture name="FAKER LEFT instance 10002" x="1462" y="1295" width="722" height="690" frameX="-0" frameY="-0" frameWidth="729" frameHeight="691"/>
+	<SubTexture name="FAKER LEFT instance 10003" x="3711" y="621" width="720" height="689" frameX="-1" frameY="-1" frameWidth="729" frameHeight="691"/>
+	<SubTexture name="FAKER LEFT instance 10004" x="2991" y="620" width="718" height="688" frameX="-2" frameY="-2" frameWidth="729" frameHeight="691"/>
+	<SubTexture name="FAKER LEFT instance 10005" x="4433" y="633" width="720" height="689" frameX="-1" frameY="-1" frameWidth="729" frameHeight="691"/>
+	<SubTexture name="FAKER LEFT instance 10006" x="5155" y="673" width="720" height="689" frameX="-0" frameY="-1" frameWidth="729" frameHeight="691"/>
+	<SubTexture name="FAKER LEFT instance 10007" x="5877" y="673" width="720" height="689" frameX="-0" frameY="-1" frameWidth="729" frameHeight="691"/>
+	<SubTexture name="FAKER LEFT instance 10008" x="6599" y="675" width="721" height="689" frameX="-0" frameY="-1" frameWidth="729" frameHeight="691"/>
+	<SubTexture name="FAKER LEFT instance 10009" x="7322" y="675" width="720" height="689" frameX="-0" frameY="-1" frameWidth="729" frameHeight="691"/>
+	<SubTexture name="FAKER LEFT instance 10010" x="2" y="1291" width="729" height="689" frameX="-0" frameY="-1" frameWidth="729" frameHeight="691"/>
+	<SubTexture name="FAKER RIGHT instance 10000" x="6909" y="1366" width="605" height="698" frameX="-0" frameY="-4" frameWidth="632" frameHeight="702"/>
+	<SubTexture name="FAKER RIGHT instance 10001" x="590" y="1986" width="588" height="702" frameX="-39" frameY="-0" frameWidth="632" frameHeight="702"/>
+	<SubTexture name="FAKER RIGHT instance 10002" x="2" y="1982" width="586" height="701" frameX="-45" frameY="-1" frameWidth="632" frameHeight="702"/>
+	<SubTexture name="FAKER RIGHT instance 10003" x="7516" y="1366" width="593" height="698" frameX="-36" frameY="-4" frameWidth="632" frameHeight="702"/>
+	<SubTexture name="FAKER RIGHT instance 10004" x="3381" y="1312" width="598" height="697" frameX="-30" frameY="-5" frameWidth="632" frameHeight="702"/>
+	<SubTexture name="FAKER RIGHT instance 10005" x="3981" y="1324" width="598" height="697" frameX="-32" frameY="-5" frameWidth="632" frameHeight="702"/>
+	<SubTexture name="FAKER RIGHT instance 10006" x="5113" y="1364" width="597" height="697" frameX="-34" frameY="-5" frameWidth="632" frameHeight="702"/>
+	<SubTexture name="FAKER RIGHT instance 10007" x="5712" y="1364" width="597" height="697" frameX="-34" frameY="-5" frameWidth="632" frameHeight="702"/>
+	<SubTexture name="FAKER RIGHT instance 10008" x="6311" y="1366" width="596" height="697" frameX="-35" frameY="-5" frameWidth="632" frameHeight="702"/>
+	<SubTexture name="FAKER RIGHT instance 10009" x="2186" y="1309" width="596" height="696" frameX="-36" frameY="-5" frameWidth="632" frameHeight="702"/>
+	<SubTexture name="FAKER RIGHT instance 10010" x="2784" y="1310" width="595" height="696" frameX="-36" frameY="-5" frameWidth="632" frameHeight="702"/>
+	<SubTexture name="FAKER UP instance 10000" x="4581" y="1324" width="530" height="701" frameX="-0" frameY="-31" frameWidth="532" frameHeight="733"/>
+	<SubTexture name="FAKER UP instance 10001" x="5400" y="2063" width="519" height="728" frameX="-13" frameY="-5" frameWidth="532" frameHeight="733"/>
+	<SubTexture name="FAKER UP instance 10002" x="5921" y="2065" width="532" height="733" frameX="-0" frameY="-0" frameWidth="532" frameHeight="733"/>
+	<SubTexture name="FAKER UP instance 10003" x="4876" y="2063" width="522" height="727" frameX="-10" frameY="-6" frameWidth="532" frameHeight="733"/>
+	<SubTexture name="FAKER UP instance 10004" x="1180" y="1987" width="525" height="725" frameX="-7" frameY="-8" frameWidth="532" frameHeight="733"/>
+	<SubTexture name="FAKER UP instance 10005" x="1707" y="2007" width="525" height="725" frameX="-7" frameY="-8" frameWidth="532" frameHeight="733"/>
+	<SubTexture name="FAKER UP instance 10006" x="2234" y="2007" width="532" height="725" frameX="-0" frameY="-8" frameWidth="532" frameHeight="733"/>
+	<SubTexture name="FAKER UP instance 10007" x="3822" y="2023" width="525" height="726" frameX="-7" frameY="-7" frameWidth="532" frameHeight="733"/>
+	<SubTexture name="FAKER UP instance 10008" x="4349" y="2027" width="525" height="726" frameX="-7" frameY="-7" frameWidth="532" frameHeight="733"/>
+	<SubTexture name="FAKER UP instance 10009" x="2768" y="2008" width="525" height="725" frameX="-7" frameY="-7" frameWidth="532" frameHeight="733"/>
+	<SubTexture name="FAKER UP instance 10010" x="3295" y="2011" width="525" height="725" frameX="-7" frameY="-8" frameWidth="532" frameHeight="733"/>
+</TextureAtlas>

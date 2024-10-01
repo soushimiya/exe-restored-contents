@@ -1,0 +1,26 @@
+function onCreate() {
+	var sky:BGSprite = new BGSprite('run/sky', -600, -200, 1.0, 1.0);
+	add(sky);
+
+	var grassback:BGSprite = new BGSprite('run/GrassBack', -600, -200, 1.0, 1.0);
+	add(grassback);
+
+	var trees:BGSprite = new BGSprite('run/trees', -600, -200, 1.0, 1.0);
+	add(trees);
+
+	var grass:BGSprite = new BGSprite('run/Grass', -600, -200, 1.0, 1.0);
+	add(grass);
+
+	var treesfront:BGSprite = new BGSprite('run/TreesFront', -600, -200, 1.0, 1.0);
+	add(treesfront);
+
+	var topoverlay:BGSprite = new BGSprite('run/TopOverlay', -600, -200, 1.0, 1.0);
+	add(topoverlay);
+
+	ghz = new FlxSprite(-428.5 + 50 + 700, -449.35 + 25 + 392 + 105 + 50).loadGraphic(Paths.image("run/GreenHill", 'exe'));
+	ghz.alpha = 0;
+	ghz.scrollFactor.set(1, 1);
+	ghz.scale.x = 8;
+	ghz.scale.y = 8;
+	add(ghz);
+}

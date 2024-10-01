@@ -1,0 +1,19 @@
+function postModifierRegister() {
+	//modManager.queueEaseP(startStep, finishStep, "mod", persent(%), "backOut", 1); -- 0 is bf 1 is dad (-1 are both)
+	modManager.queueEaseP(570, 588, "alpha", 100, "backOut", 1);
+	modManager.queueEaseP(570, 588, "opponentSwap", 50, "circOut", -1);
+	
+	modManager.queueEaseP(591, 600, "tipsy", 40, "backOut", 0);
+	modManager.queueEaseP(591, 600, "brake", 100, "circOut", 0);
+
+	modManager.queueEaseP(848, 854, "alpha", 0, "backOut", 1);
+	modManager.queueEaseP(848, 854, "opponentSwap", 0, "circOut", -1);
+	modManager.queueEaseP(848, 854, "tipsy", 0, "backOut", 0);
+	modManager.queueEaseP(848, 854, "brake", 0, "circOut", 0);
+
+	modManager.queueEaseP(860, 864, "drunk", 50, "circOut", -1);
+	modManager.queueEaseP(860, 864, "tipsy", 70, "backOut", -1);
+
+	modManager.queueEaseP(1116, 1121, "drunk", 0, "circOut", -1);
+	modManager.queueEaseP(1116, 1121, "tipsy", 0, "circOut", -1);
+}

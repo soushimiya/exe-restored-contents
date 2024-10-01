@@ -1,0 +1,78 @@
+{
+	"songs": [
+		[
+			"too-slow",
+			"sonicexe",
+			[
+				0,
+				0,
+				255
+			]
+		],
+		[
+			"you-cant-run",
+			"ycr",
+			[
+				0,
+				0,
+				255
+			]
+		],
+		[
+			"personel",
+			"coldsteel",
+			[
+				255,
+				0,
+				255
+			]
+		],
+		[
+			"milk",
+			"sunky",
+			[
+				0,
+				0,
+				255
+			]
+		],
+		[
+			"sunshine",
+			"tailsdoll",
+			[
+				255,
+				255,
+				0
+			]
+		],
+		[
+			"faker",
+			"faker",
+			[
+				0,
+				0,
+				255
+			]
+		]
+
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "",
+	"weekName": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

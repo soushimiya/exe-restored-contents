@@ -1,0 +1,11 @@
+function onCreate() {
+    flooooor = new FlxSprite(0, 0).loadGraphic(Paths.image("SunshineBG"));
+    flooooor.setGraphicSize(Std.int(flooooor.width * 1.4));
+    add(flooooor);
+}
+
+function onCreatePost() {
+    ApplyFunkDistortionShader(camGame);
+    ApplyFunkDistortionShader(camHUD);
+}
+

@@ -1,0 +1,18 @@
+function onCreate() {
+    var bg:BGSprite = new BGSprite('sunky/sunky BG', -300, -500, 0.9, 0.9);
+    add(bg);
+
+    var balls:BGSprite = new BGSprite('sunky/ball', 20, -500, 0.9, 0.9);
+    add(balls);
+
+    var stage:BGSprite = new BGSprite('sunky/stage', 125, -500, 1.0, 1.0);
+    stage.setGraphicSize(Std.int(stage.width * 1.1));
+    add(stage);
+}
+
+function onCreatePost() {
+    var funnyAspect:FlxSprite = new FlxSprite(0, 0).loadGraphic(Paths.image("sunky/4_3 shit", 'exe'));
+    funnyAspect.screenCenter();
+    funnyAspect.cameras = [camOther];
+    add(funnyAspect);
+}
